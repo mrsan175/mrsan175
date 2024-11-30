@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Mrsan  
 
 🚀 **Code Alchemist | Idea Crafter | Problem Solver**  
 
@@ -8,13 +8,6 @@
 - 🧠 I enjoy transforming ideas into scalable and efficient solutions.  
 - 🔥 Passionate about **web development**, **AI**, and building tools that make life easier.  
 - 🎨 Combining **creativity** and **logic** is my superpower.  
-
----
-
-🌐 **Connect With Me**  
-💌 Let's chat: [Your Email]  
-💼 Find me on LinkedIn: [LinkedIn Profile]  
-🌟 Visit my blog: [Your Blog Link]  
 
 ---
 
