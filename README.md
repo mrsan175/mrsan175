@@ -19,6 +19,7 @@ const mySkills = {
   tools: ["Docker", "Git", "Prisma", "Socket.io"],
   softSkills: ["Problem-solving", "Creativity", "Collaboration"]
 };
+```
 🌟 Featured Projects
 
 🚀 [Project Name](Project Link)
