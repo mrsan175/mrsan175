@@ -20,21 +20,10 @@ const mySkills = {
   softSkills: ["Problem-solving", "Creativity", "Collaboration"]
 };
 ```
-🌟 Featured Projects
-
-🚀 [Project Name](Project Link)
-🌱 Brief description of what it does or why it's awesome.
-
-🎮 [Another Project](Another Link)
-🕹️ Explain a unique feature or its impact.
 
 💡 Philosophy
 
 "Code is not just a tool; it's an art of crafting ideas into reality."
-
-📈 GitHub Stats
-
-
 
 🤖 Fun Fact
 When I'm not coding, you can find me daydreaming about the future or playing strategy games.
